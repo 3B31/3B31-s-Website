@@ -61,7 +61,7 @@
     <label>Last name: <input type="text"></label>
 </div>
 
-<img src="![Image](https://github.com/user-attachments/assets/1e894709-2711-4911-8718-556173538085)" alt="wClass Timetable" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
-![Image](https://github.com/user-attachments/assets/1e894709-2711-4911-8718-556173538085)
+<img src="w" alt="wClass Timetable" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
+
 </body>
 </html>
