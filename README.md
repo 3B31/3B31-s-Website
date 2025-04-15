@@ -56,12 +56,13 @@
     <option>No! You even do not put the photo!?</option>
 </select>
 
+<img src="https://github.com/3B31/3B31-s-Website/blob/12d823b272c1c7300d9703858a9bb96a69491fb6/Timetable.jpg" alt="Class Timetable" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
+
 <div class="input-container">
     <label>First name: <input type="text"></label><br>
     <label>Last name: <input type="text"></label>
 </div>
 
-<img src="https://github.com/3B31/3B31-s-Website/blob/12d823b272c1c7300d9703858a9bb96a69491fb6/Timetable.jpg" alt="Class Timetable" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
 
 </body>
 </html>
