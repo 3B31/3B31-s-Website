@@ -38,7 +38,7 @@
 
 <h2>My Photos</h2>
 <div class="photo-grid">
-    <img src="https://github.com/3B31/3B31-s-Website/blob/70c5a012eae22c5014765e6cc86f980fefd71ca9/360_F_269821180_UAEWi4xE7JhAqOUvOD1JoBLP0YDvqFvA.jpg" alt="no photo" width="104" height="142">
+    <img src="https://github.com/3B31/3B31-s-Website/blob/70c5a012eae22c5014765e6cc86f980fefd71ca9/360_F_269821180_UAEWi4xE7JhAqOUvOD1JoBLP0YDvqFvA.jpg?raw=true" alt="no photo" width="104" height="142">
     <img src="https://github.com/3B31/3B31-s-Website/blob/main/iStock-blue-sea-resize.jpg?raw=true" alt="no photos" width="104" height="142">
     <img src="https://github.com/3B31/3B31-s-Website/blob/main/istockphoto-467367026-612x612.jpg?raw=true" alt="no photo" width="104" height="142">
     <img src="https://github.com/3B31/3B31-s-Website/blob/main/70b0785f0c6bf542fde2a9e06b356606.png?raw=true" alt="no photo" width="104" height="142">
@@ -56,7 +56,7 @@
     <option>No! You even do not put the photo!?</option>
 </select>
 
-<img src="https://github.com/3B31/3B31-s-Website/blob/12d823b272c1c7300d9703858a9bb96a69491fb6/Timetable.jpg" alt="Class Timetable" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
+<img src="https://github.com/3B31/3B31-s-Website/blob/12d823b272c1c7300d9703858a9bb96a69491fb6/Timetable.jpg?raw=true" alt="Class Timetable" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
 
 <div class="input-container">
     <label>First name: <input type="text"></label><br>
