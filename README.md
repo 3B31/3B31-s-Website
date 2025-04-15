@@ -38,7 +38,7 @@
 
 <h2>My Photos</h2>
 <div class="photo-grid">
-    <img src="photo1.jpg" alt="no photo" width="104" height="142">
+    <img src="[photo1.jpg" alt](https://github.com/3B31/3B31-s-Website/blob/70c5a012eae22c5014765e6cc86f980fefd71ca9/360_F_269821180_UAEWi4xE7JhAqOUvOD1JoBLP0YDvqFvA.jpg)="no photo" width="104" height="142">
     <img src="photo2.jpg" alt="no photo" width="104" height="142">
     <img src="photo3.jpg" alt="no photo" width="104" height="142">
     <img src="photo4.jpg" alt="no photo" width="104" height="142">
